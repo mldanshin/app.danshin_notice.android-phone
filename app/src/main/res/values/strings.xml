@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Danshin Notice</string>
+
+    <string name="gen_dates_title">Danshin notice</string>
+
+    <string name="gen_dates_day_before">Дней до: %1$d</string>
+    <string name="gen_dates_day_after">Дней после: %1$d</string>
+    <string name="gen_dates_send_time">Время отправки: %1$s</string>
+    <string name="gen_dates_sites_setting">Изменить настройки можно на сайте:</string>
+    <string name="gen_dates_send_notice">Получить сообщение</string>
+    <string name="gen_dates_setting_info">Перезагрузите приложение, чтобы применить изменения!</string>
+    <string name="gen_dates_timezone">Часовой пояс: %1$s</string>
+    <string name="gen_dates_settings_title">Настройки</string>
+
+    <string name="gen_dates_upcoming_title">📅 События из родословной</string>
+    <string name="gen_dates_upcoming_no_events">Нет событий для отображения</string>
+    <string name="gen_dates_upcoming_error_load">Ошибка загрузки: </string>
+    <string name="gen_dates_upcoming_error_network">Сетевая ошибка: </string>
+    <string name="gen_dates_upcoming_past">Прошедшие</string>
+    <string name="gen_dates_upcoming_today">Сегодня</string>
+    <string name="gen_dates_upcoming_future">Скоро</string>
+    <string name="gen_dates_upcoming_birthday">день рождения</string>
+    <string name="gen_dates_upcoming_memory">день памяти</string>
+    <string name="gen_dates_upcoming_ago">назад</string>
+    <string name="gen_dates_upcoming_age">в возрасте</string>
+    <string name="gen_dates_upcoming_date_unknown">дата неизвестна</string>
+    <string name="gen_dates_upcoming_person_unknown">неизвестный</string>
+    <string name="gen_dates_upcoming_age_unknown">неизвестно</string>
+    <string name="gen_dates_upcoming_interval_unknown">неизвестно</string>
+    <plurals name="gen_dates_upcoming_year">
+        <item quantity="one">%d год</item>
+        <item quantity="few">%d года</item>
+        <item quantity="many">%d лет</item>
+        <item quantity="other">%d года</item>
+    </plurals>
+    <plurals name="gen_dates_upcoming_month">
+        <item quantity="one">%d месяц</item>
+        <item quantity="few">%d месяца</item>
+        <item quantity="many">%d месяцев</item>
+        <item quantity="other">%d месяца</item>
+    </plurals>
+    <plurals name="gen_dates_upcoming_day">
+        <item quantity="one">%d день</item>
+        <item quantity="few">%d дня</item>
+        <item quantity="many">%d дней</item>
+        <item quantity="other">%d дня</item>
+    </plurals>
+    <string name="gen_dates_upcoming_age_future">исполнится %s</string>
+    <string name="gen_dates_upcoming_age_would">%d лет назад</string>
+    <string name="gen_dates_upcoming_age_turned">исполнилось %s</string>
+    <string name="gen_dates_upcoming_age_death">%s</string>
+    <string name="gen_dates_notification_more">Полная информация — в приложении</string>
+
+    <string name="login_email">Email</string>
+    <string name="login_password">Пароль</string>
+    <string name="login_submit">Войти</string>
+    <string name="login_title">Авторизация</string>
+    <string name="login_message_fields_empty">Заполните все поля</string>
+    <string name="login_message_fields_invalid">Неверный email или пароль</string>
+    <string name="message_401">Сессия истекла. Войдите заново.</string>
+    <string name="message_403">Недостаточно прав</string>
+    <string name="message_error_handle">Ошибка обработки ответа</string>
+    <string name="message_error_load">Ошибка загрузки</string>
+    <string name="message_error_network">Ошибка сети</string>
+    <string name="message_error_server">Ошибка сервера</string>
+
+    <string name="notification_permission_required_title">Разрешение на уведомления</string>
+    <string name="notification_permission_required_message">Без уведомлений приложение не сможет сообщать о важных событиях. Пожалуйста, разрешите уведомления в настройках.</string>
+    <string name="go_to_settings">Настройки</string>
+    <string name="exit_app">Выйти</string>
+
+    <string name="exact_alarm_required_title">Требуется разрешение на получение уведомлений</string>
+    <string name="exact_alarm_required_message">Для своевременной отправки уведомлений приложению нужно разрешение на получение уведомлений в любом режиме. Без него работа приложения невозможна.</string>
+
+    <string name="autostart_dialog_title">Включите автозапуск</string>
+    <string name="autostart_dialog_message">Чтобы напоминания приходили, когда приложение закрыто, разрешите приложению автозапуск в настройках системы.\n\nНа разных устройствах этот пункт находится в разделе «Батарея», «Управление приложениями» или «Автозапуск». Найдите там «Danshin Notice» и включите переключатель.</string>
+    <string name="autostart_dialog_button">Понятно</string>
+</resources>
